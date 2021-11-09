@@ -8,3 +8,6 @@
 2. Using the box model and divs I was able to gain good experience with maniplating elements on screen.
   
 3. Ensuring that I can read, understand and impliment user stories when building a project. 
+ 
+## My tribute page: https://stevens-97.github.io/FCCTributepage/
+<p>This page is slightly different from my original submission as I changed images that were not free to use to those that were.</p>
